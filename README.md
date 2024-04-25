@@ -1,4 +1,4 @@
-# CODESOFT
+# JAVA INTERNSHIP 
 
 Welcome to my internship repository for Java development at CODSOFT! In Repository CODSOFT_TASK 1 2 & 4, you'll find a collection of projects completed during my internship journey. These projects highlight my growth and dedication to mastering Java programming concepts.
 
